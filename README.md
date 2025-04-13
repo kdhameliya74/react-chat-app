@@ -14,15 +14,10 @@ cd backend
 npm install
 
 # Frontend dependencies
-cd ../frontend
+cd frontend
 npm install
 
 Happy Coding! 💙💜
-
-yaml
-Copy
-Edit
-
 ---
 
 You can save this as `README.md` in your root directory and you're good to go. Want me to generate a matching `.gitignore` file too?
